@@ -1,3 +1,5 @@
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/492cfd68-e6d6-4d7f-8d06-44d39de7f530" />
+
 # azure-uber-data-engineering-pipeline
 # Azure Data Engineering Pipeline – Uber Data Analysis
 
